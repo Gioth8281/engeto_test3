@@ -38,7 +38,7 @@ sudo apt-get install git
 
 ### Installation
  
-1. Clone the repo
+1. Download the zip file or clone the repo 
 ```sh
 git clone https://github.com/Gioth8281/engeto_test3.git
 ```
