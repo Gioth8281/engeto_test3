@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 You need to install python for this to work. If you don't have python click this link to download it: [python.org](https://www.python.org)
 
-* Git
+* Git _(Required if you want to clone this repo otherwise optional)_
 ```sh
 sudo apt-get install git
 ```
